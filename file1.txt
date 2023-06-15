@@ -1,4 +1,4 @@
 Hello
 See my feature.txt
 
-Changed by change1
+Changed by change 1 and 2
